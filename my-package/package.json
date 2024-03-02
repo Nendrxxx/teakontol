@@ -1,5 +1,5 @@
 {
-    "name": "teakontol",
+    "name": "@Nendrxxx/teakontol",
     "version": "0.0.1",
     "description": "📦 npm package tutorial",
     "main": "index.js",
@@ -24,9 +24,5 @@
         "email": "M3M3K@gmail.com",
         "url": "https://M3M3K.com"
     },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Nendrxxx/teakontol/issues"
-    },
-    "homepage": "https://github.com/Nendrxxx/teakontol#readme"
+    "license": "MIT"
 }
