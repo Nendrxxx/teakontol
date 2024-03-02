@@ -1,7 +1,7 @@
 {
-    "name": "@Nendrxxx/teakontol",
+    "name": "@devopshint/npm_project",
     "version": "0.0.1",
-    "description": "npm",
+    "description": "📦 npm package tutorial",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
@@ -11,14 +11,22 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Nendrxxx/teakontol.git"
+        "url": "https://github.com/devopshint/npm_project.git"
     },
     "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
     ],
     "author": {
-        "name": "M3M3K",
-        "email": "M3M3K@gmail.com",
-        "url": "https://M3M3K.com"
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/devopshint/npm_project/issues"
+    },
+    "homepage": "https://github.com/devopshint/npm_project#readme"
 }
