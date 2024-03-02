@@ -1,7 +1,7 @@
 {
     "name": "@Nendrxxx/teakontol",
     "version": "0.0.1",
-    "description": "📦 npm package tutorial",
+    "description": "npm",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
@@ -14,10 +14,6 @@
         "url": "https://github.com/Nendrxxx/teakontol.git"
     },
     "keywords": [
-        "npm",
-        "publish",
-        "package",
-        "registry"
     ],
     "author": {
         "name": "M3M3K",
